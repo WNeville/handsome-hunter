@@ -1,6 +1,6 @@
-(ns handsome-hunter.core-test
+(ns handsome-hunter.rundomizer-test
   (:require [clojure.test :refer :all]
-            [handsome-hunter.core :refer :all]))
+            [handsome-hunter.rundomizer :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
